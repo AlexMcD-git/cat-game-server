@@ -1,3 +1,8 @@
+to run:
+json-server --watch db.json --port 3001
+url: 
+http://localhost:3001/
+
 # JSON Server Template
 
 ## Setup
