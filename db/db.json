@@ -1,4 +1,24 @@
 {
+  "profile": [
+    {
+      "id": 1,
+      "name": "Cat Person",
+      "money": 2400,
+      "score": 4
+    }
+  ],
+  "upgrades": [
+    {
+      "id": 0,
+      "name": "Better Brush",
+      "level": 0
+    },
+    {
+      "id": 1,
+      "name": "Better Food",
+      "level": 0
+    }
+  ],
   "cats": [
     {
       "id": 1,
@@ -6,9 +26,19 @@
       "image": "https://cdn2.thecatapi.com/images/YQxZhSAAZ.jpg"
     },
     {
-      "id": 2,
-      "name": "Cat2",
-      "image": "https://cdn2.thecatapi.com/images/380.jpg"
+      "name": "Aurora",
+      "image": "https://cdn2.thecatapi.com/images/5na_S-Idc.jpg",
+      "id": 2
+    },
+    {
+      "name": "Angel",
+      "image": "https://cdn2.thecatapi.com/images/e2n.jpg",
+      "id": 8
+    },
+    {
+      "name": "Florence",
+      "image": "https://cdn2.thecatapi.com/images/7ac.jpg",
+      "id": 9
     }
   ]
 }
