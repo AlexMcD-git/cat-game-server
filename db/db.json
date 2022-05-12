@@ -3,8 +3,8 @@
     {
       "id": 1,
       "name": "Cat Person",
-      "money": 2000,
-      "score": 4
+      "money": 700,
+      "score": 7
     }
   ],
   "upgrades": [
@@ -24,6 +24,16 @@
       "name": "Aurora",
       "image": "https://cdn2.thecatapi.com/images/5na_S-Idc.jpg",
       "id": 1
+    },
+    {
+      "name": "Momo",
+      "image": "https://media.discordapp.net/attachments/972859080400076840/974010615964241991/image0.jpg?width=393&height=719",
+      "id": 2
+    },
+    {
+      "name": "Jezebel",
+      "image": "https://i.ibb.co/QMg91sP/jezzie.jpg",
+      "id": 3
     }
   ]
 }
